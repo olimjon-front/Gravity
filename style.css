@@ -1,0 +1,37 @@
+.container{
+    width: 1440px;
+    height: 1024px;
+    background: #F9F9F9;
+    margin:  0 auto;
+}
+.navbar{
+    display: flex;
+}
+.navbar h1{
+    margin-left: 120px;
+    margin-top: 70px;
+}
+.soz{
+    margin-top: -50px;
+    gap: 30px;
+    margin-left: 900px;
+    display: flex;
+}
+.menu h1{
+    margin-top: 200px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+.menu p{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 150px;
+}
+.btn{
+    margin-left: 150px;
+    background: var(--A, #71A89E);
+}
+.img{
+    margin-top: -500px;
+    margin-left: 700px;
+}
